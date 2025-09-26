@@ -15,7 +15,7 @@ I help businesses upgrade and future-proof their legacy software ecosystems—tu
 ---
 
 ## 📌 Featured Modernization Projects
-- [**Northwind .NET 9 Migration**](https://github.com/ogu83/NorthwindModernization)  
+- [**Northwind .NET 9 Migration**](https://github.com/ogu83/Northwind)  
   Migration showcase with clean architecture, entity framework, and modern .NET practices.  
 
 - [**Silverlight → OpenSilver Migration**](https://github.com/OpenSilver/OpenSilver)  

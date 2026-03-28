@@ -26,7 +26,7 @@ I help businesses embed large-language-model intelligence into their products—
 - [**Crypto Trading Intelligence**](https://github.com/ogu83/binance-pump-detector)  
   Real-time pump-pattern detection combining Python signal processing with LLM-assisted anomaly summarization.  
 
-- [**Northwind .NET 9 Migration**](https://github.com/ogu83/Northwind)  
+- [**Northwind .NET 10 Migration**](https://github.com/ogu83/Northwind)  
   Clean-architecture migration showcase—useful context for integrating AI features into modernized .NET backends.  
 
 ---

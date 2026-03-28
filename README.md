@@ -1,31 +1,33 @@
 # 👋 Hi, I'm Oğuz Koroğlu  
 
-🚀 **.NET 9 Modernization Consultant | Legacy Software Transformation Expert**  
-I help businesses upgrade and future-proof their legacy software ecosystems—turning outdated systems into fast, secure, and maintainable .NET 9 applications.  
+🤖 **LLM & AI Agent Integration Engineer | RAG · Vanna.ai · OpenAI · Python**  
+I help businesses embed large-language-model intelligence into their products—building RAG pipelines, AI-powered reporting tools, custom agents, and end-to-end LLM integrations that turn raw data into actionable insights.  
 
 ---
 
 ## 💼 What I Offer
-- 🔄 **Legacy Migration Audits** – Assess old C++, C#, Silverlight, and ASP.NET apps for modernization paths.  
-- 🛠️ **Full-stack .NET 9 Modernization** – Database → Backend → Frontend.  
-- 🧩 **Clean Architecture & SOLID Principles** – Simplify complexity and improve maintainability.  
-- ⚡ **Performance Optimization** – Profiling, tuning, and scalability improvements.  
-- 👥 **Team Leadership** – Agile/Scrum expertise with mentoring for dev teams.  
+- 🧠 **LLM & AI Agent Integration** – Design and ship production-ready RAG systems, AI agents, and LLM-powered APIs using OpenAI, LangChain, and open-source models.  
+- 📊 **AI-Enhanced Reporting & BI** – Integrate [Vanna.ai](https://vanna.ai) and NLP-to-SQL pipelines to turn natural-language questions into live dashboards and charts.  
+- 🔌 **Data Ingestion & Pipeline Engineering** – Build robust ingestion, chunking, and embedding pipelines for vector databases (pgvector, Pinecone, Weaviate).  
+- 📈 **Visualization & UX for AI** – Craft intuitive chat and dashboard UIs that surface LLM insights without overwhelming users.  
+- 💸 **Token Optimization** – Compress context, implement smart caching, and budget prompts to keep LLM costs predictable at scale.  
+- 👥 **Team Leadership** – Agile/Scrum expertise with hands-on mentoring for AI-focused engineering teams.  
 
 ---
 
-## 📌 Featured Modernization Projects
-- [**Northwind .NET 9 Migration**](https://github.com/ogu83/Northwind)  
-  Migration showcase with clean architecture, entity framework, and modern .NET practices.  
+## 📌 Featured AI & LLM Projects
 
-- [**Silverlight → OpenSilver Migration**](https://github.com/OpenSilver/OpenSilver)  
-  Contributions to the OpenSilver project (Silverlight → Blazor/WASM) enabling enterprises to run legacy apps in the browser again.  
+- [**Knowledge Base Assistant**](https://github.com/ogu83/knowledge-base-assistant-oguz)  
+  Full-stack RAG application (FastAPI + PostgreSQL + Vue 3) that indexes a knowledge base with FTS/trigram search and lets users ask natural-language questions answered by OpenAI with grounded, context-scoped responses. Demonstrates indexing performance gains (~30% faster queries), token-budgeted prompts, and a chat-bubble UI.  
+
+- **Premiere Digital – AI Reporting Tool** *(private enterprise)*  
+  Enhanced a media-supply-chain reporting platform with [Vanna.ai](https://vanna.ai): added NLP-to-SQL query generation, improved data ingestion pipelines, implemented interactive visualizations, and reduced token consumption through context compression and prompt engineering.  
 
 - [**Crypto Trading Intelligence**](https://github.com/ogu83/binance-pump-detector)  
-  Real-time analysis tool for detecting pump patterns using Python and .NET integrations.  
+  Real-time pump-pattern detection combining Python signal processing with LLM-assisted anomaly summarization.  
 
-- [**BTC Wallet Demo**](https://github.com/ogu83/btc-wallet)  
-  Blockchain demo project showcasing .NET integration with Bitcoin transactions.  
+- [**Northwind .NET 10 Migration**](https://github.com/ogu83/Northwind)  
+  Clean-architecture migration showcase—useful context for integrating AI features into modernized .NET backends.  
 
 ---
 
@@ -34,7 +36,7 @@ I help businesses upgrade and future-proof their legacy software ecosystems—tu
 
 ---
 
-## 🌍 Let’s Work Together
+## 🌍 Let's Work Together
 - 💼 [Upwork Profile](https://www.upwork.com/freelancers/~016283d4fcd180d334)  
 - 🎥 [YouTube](https://www.youtube.com/channel/UCTNBKXpwWwnlXxDYUaNz3Qw)  
 - 🖥️ [GitHub](https://github.com/ogu83)  
@@ -44,4 +46,4 @@ I help businesses upgrade and future-proof their legacy software ecosystems—tu
 
 ---
 
-💡 *If your business depends on legacy software and you’re ready to modernize for the future, let’s connect on [Upwork](https://www.upwork.com/freelancers/~016283d4fcd180d334).*  
+💡 *Ready to add LLM intelligence to your product—RAG pipelines, AI agents, or NLP-powered reporting? Let’s connect on [Upwork](https://www.upwork.com/freelancers/~016283d4fcd180d334).*  
